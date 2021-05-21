@@ -39,7 +39,7 @@ six==1.14.0
 slim==0.1
 tb-nightly==2.2.0a20200213
 tensorboard==1.12.0
-tensorflow==2.1.0
+tensorflow==2.5.0
 tensorflow-estimator==2.1.0
 tensorflow-gpu==2.1.0
 tensorflow-gpu-estimator==2.1.0
